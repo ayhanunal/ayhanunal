@@ -1,4 +1,7 @@
-![](https://media.giphy.com/media/WsJzXF8M8tl6w/giphy.gif)
+
+<p align="center">
+  <img width="800" height="350" src="https://media.giphy.com/media/WsJzXF8M8tl6w/giphy.gif">
+</p>
 
 
 ### Hi there, I'm [Ayhan](https://ayhanunal.site/) 👋
