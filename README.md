@@ -40,7 +40,7 @@ Json/XML  --->	█████████████████████�
 
 
 
-[website]: https://ayhanunal.site/
+[website]: https://ayhanunaldev.site/
 [instagram]: https://www.instagram.com/ayhannunl/
 [linkedin]: https://www.linkedin.com/in/ayhanunal/
 
