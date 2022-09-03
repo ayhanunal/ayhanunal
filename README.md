@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="800" height="350" src="https://media.giphy.com/media/WsJzXF8M8tl6w/giphy.gif">
+  <img width="800" height="350" src="https://ayhanunaldev.site/images/android.jpg">
 </p>
 
 
@@ -8,8 +8,8 @@
 
 - 📱 I am working on mobile application development.
 - 💻 I've been working on [BLE](https://punchthrough.com/android-ble-guide/) these times.
-- 💬 Ask me about Android / Python
-- ❤️ I'm in love with Android and Java
+- 💬 Ask me about Android / Kotlin / Java
+- ❤️ I'm in love with Android
 
 ### Spotify 🎧
 [<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Ayhan Ünal Spotify Playing" width="400" />](https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT?si=1d9534aaed9b4e46)
