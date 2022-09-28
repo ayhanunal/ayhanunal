@@ -7,7 +7,7 @@
 ### Hi there, I'm [Ayhan](https://ayhanunaldev.site/) 👋
 
 - 📱 I am working on mobile application development.
-- 💻 I've been working on [BLE](https://punchthrough.com/android-ble-guide/) these times.
+- 💻 I've been working on [Jetpack Compose](https://developer.android.com/jetpack/compose) these times.
 - 💬 Ask me about Android / Kotlin / Java
 - ❤️ I'm in love with Android
 
