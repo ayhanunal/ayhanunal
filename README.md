@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img width="800" height="350" src="https://ayhanunal.site/images/android.jpg">
+  <img width="800" height="350" src="https://ayhanunalapp.site/images/android.jpg">
 </p>
 
 
-### Hi there, I'm [Ayhan](https://ayhanunal.site/) 👋
+### Hi there, I'm [Ayhan](https://ayhanunalapp.site/) 👋
 
 - 📱 I am working on Native Android development.
 - 💻 I've been working on [Jetpack Compose](https://developer.android.com/jetpack/compose) recently.
@@ -40,7 +40,7 @@ Json/XML  --->	█████████████████████�
 
 
 
-[website]: https://ayhanunal.site/
+[website]: https://ayhanunalapp.site/
 [instagram]: https://www.instagram.com/ayhannunl/
 [linkedin]: https://www.linkedin.com/in/ayhanunal/
 
